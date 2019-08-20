@@ -57,7 +57,6 @@ disqus_shortname: **as it described, find it on your disqus site**
 
 excerpt_num: **number of auto excerpt words**
 
-footer_info: **black words fixed on the right end**
 ```
 ***
 # Issues
